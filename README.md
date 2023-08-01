@@ -14,5 +14,4 @@ Here are some ideas to get you started:-->
 <!-- 😄 Pronouns: ... -->
 - ⚡ 
 #### Connect me :
-<a href="https://www.linkedin.com/in/patrick-bett-2b32b6209/" rel="nofollow"><img align="center" >
-src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amos kipkirui" height="30" width="40" style="max-width: 100%;"></a>
+<a href="https://www.linkedin.com/in/patrick-bett-2b32b6209/" rel="nofollow"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amos kipkirui" height="30" width="40" style="max-width: 100%;"></a>
