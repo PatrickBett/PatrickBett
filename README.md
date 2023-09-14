@@ -9,11 +9,11 @@
 
 Here are some ideas to get you started:-->
 
-<!-- 🔭 I’m currently working on <b>Data Science Project</b> -->
-- 🌱 I’m currently learning <b>Data Science</b> 
+<!-- 🔭 I’m currently working on <b>Software E</b> -->
+- 🌱 I’m currently learning <b>Software Engineering</b> 
 <!-- - 👯 I’m looking to collaborate on ...
  - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about <b> Django, Data analysis, Machine Learning Algorithmns.</b>
+- 💬 Ask me about <b> Django, React Js, HTML, CSS.</b>
 - 📫 Reach me @patoobe4356@gmail.com
 <!-- 😄 Pronouns: ... -->
 - ⚡ 
