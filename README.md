@@ -9,12 +9,12 @@
 
 Here are some ideas to get you started:-->
 
-<!-- 🔭 I’m currently working on <b>Software E</b> -->
-- 🌱 I’m currently learning <b>Software Engineering</b> 
+ 🔭 I’m currently working on <b>Hospital Management System</b> 
+<!-- - 🌱 I’m currently learning <b>Software Engineering</b> -->
 <!-- - 👯 I’m looking to collaborate on ...
  - 🤔 I’m looking for help with ... -->
 - 💬 Ask me about <b> Django, React Js, Vanilla Javascript, HTML, CSS.</b>
-- 📫 Reach me @patoobe4356@gmail.com
+- 📫 Reach me @patrickbett018@gmail.com
 <!-- 😄 Pronouns: ... -->
 - ⚡ 
 #### Connect me :
