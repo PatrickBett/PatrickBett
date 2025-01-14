@@ -9,7 +9,7 @@
 
 Here are some ideas to get you started:-->
 
- 🔭 I’m currently working on <b>Hospital Management System</b> 
+ 🔭 I’m currently working on <b>Property Management System</b> 
 <!-- - 🌱 I’m currently learning <b>Software Engineering</b> -->
 <!-- - 👯 I’m looking to collaborate on ...
  - 🤔 I’m looking for help with ... -->
