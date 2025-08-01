@@ -13,7 +13,7 @@ Here are some ideas to get you started:-->
 <!-- - 🌱 I’m currently learning <b>Software Engineering</b> -->
 <!-- - 👯 I’m looking to collaborate on ...
  - 🤔 I’m looking for help with ... -->
-- 💬 Ask me about <b> Django, React Js, Redux, Vanilla Javascript, HTML, CSS,Bootstrap.</b>
+- 💬 Ask me about <b> Django, React Js, Redux, Vanilla Javascript, HTML, CSS,Bootstrap,JWT,Oauth.</b>
 - 📫 Reach me @patrickbett018@gmail.com
 <!-- 😄 Pronouns: ... -->
 - ⚡ 
